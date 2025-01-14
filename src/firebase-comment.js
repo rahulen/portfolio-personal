@@ -4,12 +4,12 @@ import { getStorage } from "firebase/storage";
 import { collection, addDoc } from "@firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDRL3zYqAKb20ACqOy10peP751doomFVso",
-  authDomain: "protfoliorahul.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "protfoliorahul",
-  storageBucket: "protfoliorahul.firebasestorage.app",
-  messagingSenderId: "202131921764",
-  appId: "1:202131921764:web:2a14cc58d9b2eba93b3871",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
 };
 
 // Initialize with a unique name
