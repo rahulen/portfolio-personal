@@ -1,4 +1,4 @@
-# portfolio-personal
+# portfolio-personal (Frontend)
 tools:
 React: UI & component management ⚛️
 Vite: Fast development & optimized build ⚡
